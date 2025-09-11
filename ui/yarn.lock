@@ -22165,6 +22165,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"shell-quote@npm:^1.7.3":
+  version: 1.8.3
+  resolution: "shell-quote@npm:1.8.3"
+  checksum: 550dd84e677f8915eb013d43689c80bb114860649ec5298eb978f40b8f3d4bc4ccb072b82c094eb3548dc587144bb3965a8676f0d685c1cf4c40b5dc27166242
+  languageName: node
+  linkType: hard
+
 "shellwords@npm:^0.1.1":
   version: 0.1.1
   resolution: "shellwords@npm:0.1.1"
@@ -24332,7 +24339,7 @@ __metadata:
     qunit-dom: ^2.0.0
     sass: ^1.58.3
     sass-svg-uri: ^1.0.0
-    shell-quote: ^1.6.1
+    shell-quote: ^1.7.3
     string.prototype.endswith: ^0.2.0
     string.prototype.startswith: ^0.2.0
     swagger-ui-dist: ^3.36.2
